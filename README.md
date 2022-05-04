@@ -9,8 +9,8 @@ configでも設定を変更できる機能つきで、鯖開発未経験者に�
 **PK-KITアップデート時には必ず更新情報を確認するようにお願いします。<br>
 機能が追加されたり、修正されていることがあります。**<br>
 <br>
-不具合や要望等ございましたら下の開発者Twitterアカウントまで連絡をお願いします。
-[開発者:(@ROOYROOY10)] (https://twitter.com/ROOYROOY10)<br>
+不具合や要望等ございましたら下の開発者Twitterアカウントまで連絡をお願いします。<br>
+[開発者:(@ROOYROOY10)](https://twitter.com/ROOYROOY10)<br>
 <br>
 <br>
 **#本Skriptファイル導入方法**<br>
