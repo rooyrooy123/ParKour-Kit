@@ -16,7 +16,7 @@ configでも設定を変更できる機能つきで、鯖開発未経験者に�
 **#本Skriptファイル導入方法**<br>
 まず、SpigotやPaperなどのPluginサーバーを用意してください。<br>
 そして、https://github.com/rooyrooy123/ParKour-Kit/releases/ から最新バージョンのPK-Kitをダウンロードしてください。(souce codeなんちゃらってやつはダウンロードしなくてよい)<br>
-そしたら**SkriptPlugin(https://github.com/SkriptLang/Skript/releases )**と<br>
+その後[**SkriptPlugin**](https://github.com/SkriptLang/Skript/releases)と<br>
 **ダウンロードしたSkriptファイル内の上部に記載している導入必須プラグインを必ず導入してください。**<br>
 Skriptプラグインの読み込みに成功すると、pluginsフォルダにSkriptというフォルダが出てくるはずです。<br>
 そしたらそのフォルダにあるscriptsというフォルダ内にPK-KitSkriptファイルを導入してから/sk reload allまたは/reloadを実行してください。<br>
