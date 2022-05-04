@@ -1,4 +1,7 @@
 # ParKourKit
 アスレ開発キット
 
-[AboutMe](https://github.com/rooyrooy123/ParKour-Kit/releases/)
+
+
+
+[PK-Kitをダウンロードする](https://github.com/rooyrooy123/ParKour-Kit/releases/)
