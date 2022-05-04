@@ -19,4 +19,5 @@ Skriptプラグインの読み込みに成功すると、pluginsフォルダにS
 そしたらそのフォルダにあるscriptsというフォルダ内にPK-KitSkriptファイルを導入してから/sk reload allまたは/reloadを実行してください。<br>
 そしたらPK-KITが導入されるはずです。(導入に成功したら、コンソールに導入成功のメッセージが表示されます。)<br>
 <br>
+本Skriptをダウンロードした際は必ず文頭に#がついている文章を熟読してください。<br>
 [#PK-Kitをダウンロードする](https://github.com/rooyrooy123/ParKour-Kit/releases/)<br>
