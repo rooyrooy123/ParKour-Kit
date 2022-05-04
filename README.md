@@ -14,7 +14,7 @@ PK-KITアップデート時には必ず更新情報を確認するようにお�
 まず、SpigotやPaperなどのPluginサーバーを用意してください。<br>
 そして、https://github.com/rooyrooy123/ParKour-Kit/releases/ から最新バージョンのPK-Kitをダウンロードしてください。(souce codeなんちゃらってやつはダウンロードしなくてよい)<br>
 そしたらSkriptPlugin(https://github.com/SkriptLang/Skript/releases )と<br>
-ダウンロードしたSkript内に上部に記載している導入必須プラグインを必ず導入してください。<br>
+ダウンロードしたSkriptファイル内の上部に記載している導入必須プラグインを必ず導入してください。<br>
 Skriptプラグインの読み込みに成功すると、pluginsフォルダにSkriptというフォルダが出てくるはずです。<br>
 そしたらそのフォルダにあるscriptsというフォルダ内にPK-KitSkriptファイルを導入してから/sk reload allまたは/reloadを実行してください。<br>
 そしたらPK-KITが導入されるはずです。(導入に成功したら、コンソールに導入成功のメッセージが表示されます。)<br>
