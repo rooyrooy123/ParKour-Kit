@@ -1,6 +1,7 @@
 # ParKourKit
 
 **#アスレチックサーバー開発補助Skript(PK-Kit[ParKour-Kit])**<br>
+マインクラフトJava版限定<br>
 <br>
 本SKriptではCheckpointやタイムアタック(TA),TAranking,PracticeMode,簡単に保存した場所に移動できるeasytpなど様々な便利機能が搭載されています。<br>
 configでも設定を変更できる機能つきで、鯖開発未経験者にもやさしく簡単にアスレチックサーバーの土台を作れます！<br>
